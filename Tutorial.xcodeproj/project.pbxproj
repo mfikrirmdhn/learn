@@ -13,6 +13,7 @@
 		236B52003042FDBA008006C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 236B51FF3042FDBA008006C4 /* Preview Assets.xcassets */; };
 		236B52073042FE99008006C4 /* TutorialSystemIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236B52063042FE99008006C4 /* TutorialSystemIcon.swift */; };
 		23A3DC14304540E40009D840 /* ImageLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A3DC13304540E40009D840 /* ImageLearn.swift */; };
+		23A3DC16304544570009D840 /* FrameAndAlignmentLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A3DC15304544570009D840 /* FrameAndAlignmentLearn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		236B51FF3042FDBA008006C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		236B52063042FE99008006C4 /* TutorialSystemIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialSystemIcon.swift; sourceTree = "<group>"; };
 		23A3DC13304540E40009D840 /* ImageLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLearn.swift; sourceTree = "<group>"; };
+		23A3DC15304544570009D840 /* FrameAndAlignmentLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameAndAlignmentLearn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				236B51FA3042FDB8008006C4 /* ContentView.swift */,
 				236B52063042FE99008006C4 /* TutorialSystemIcon.swift */,
 				23A3DC13304540E40009D840 /* ImageLearn.swift */,
+				23A3DC15304544570009D840 /* FrameAndAlignmentLearn.swift */,
 				236B51FC3042FDBA008006C4 /* Assets.xcassets */,
 				236B51FE3042FDBA008006C4 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				23A3DC14304540E40009D840 /* ImageLearn.swift in Sources */,
 				236B52073042FE99008006C4 /* TutorialSystemIcon.swift in Sources */,
+				23A3DC16304544570009D840 /* FrameAndAlignmentLearn.swift in Sources */,
 				236B51FB3042FDB8008006C4 /* ContentView.swift in Sources */,
 				236B51F93042FDB8008006C4 /* TutorialApp.swift in Sources */,
 			);

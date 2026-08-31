@@ -11,6 +11,7 @@
 		236B51FB3042FDB8008006C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236B51FA3042FDB8008006C4 /* ContentView.swift */; };
 		236B51FD3042FDBA008006C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 236B51FC3042FDBA008006C4 /* Assets.xcassets */; };
 		236B52003042FDBA008006C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 236B51FF3042FDBA008006C4 /* Preview Assets.xcassets */; };
+		236B52073042FE99008006C4 /* TutorialSystemIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236B52063042FE99008006C4 /* TutorialSystemIcon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		236B51FA3042FDB8008006C4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		236B51FC3042FDBA008006C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		236B51FF3042FDBA008006C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		236B52063042FE99008006C4 /* TutorialSystemIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialSystemIcon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				236B51F83042FDB8008006C4 /* TutorialApp.swift */,
 				236B51FA3042FDB8008006C4 /* ContentView.swift */,
+				236B52063042FE99008006C4 /* TutorialSystemIcon.swift */,
 				236B51FC3042FDBA008006C4 /* Assets.xcassets */,
 				236B51FE3042FDBA008006C4 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				236B52073042FE99008006C4 /* TutorialSystemIcon.swift in Sources */,
 				236B51FB3042FDB8008006C4 /* ContentView.swift in Sources */,
 				236B51F93042FDB8008006C4 /* TutorialApp.swift in Sources */,
 			);

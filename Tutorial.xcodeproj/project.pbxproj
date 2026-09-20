@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2305D93A305F9FFE002D6920 /* ButtonLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2305D939305F9FFE002D6920 /* ButtonLearn.swift */; };
+		2305D93C305FABC8002D6920 /* StateLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2305D93B305FABC8002D6920 /* StateLearn.swift */; };
 		234D79CC305BA7660066A54B /* GridLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D79CB305BA7660066A54B /* GridLearn.swift */; };
+		234D79CE305BB3C20066A54B /* SafeAreaLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D79CD305BB3C20066A54B /* SafeAreaLearn.swift */; };
 		236B51F93042FDB8008006C4 /* TutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236B51F83042FDB8008006C4 /* TutorialApp.swift */; };
 		236B51FB3042FDB8008006C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236B51FA3042FDB8008006C4 /* ContentView.swift */; };
 		236B51FD3042FDBA008006C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 236B51FC3042FDBA008006C4 /* Assets.xcassets */; };
@@ -20,7 +23,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2305D939305F9FFE002D6920 /* ButtonLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonLearn.swift; sourceTree = "<group>"; };
+		2305D93B305FABC8002D6920 /* StateLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateLearn.swift; sourceTree = "<group>"; };
 		234D79CB305BA7660066A54B /* GridLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridLearn.swift; sourceTree = "<group>"; };
+		234D79CD305BB3C20066A54B /* SafeAreaLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaLearn.swift; sourceTree = "<group>"; };
 		236B51F53042FDB8008006C4 /* Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		236B51F83042FDB8008006C4 /* TutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialApp.swift; sourceTree = "<group>"; };
 		236B51FA3042FDB8008006C4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -71,6 +77,9 @@
 				23A3DC1730454A810009D840 /* BackgoundAndOverLay.swift */,
 				23A3DC19304559A50009D840 /* StacksLearn.swift */,
 				234D79CB305BA7660066A54B /* GridLearn.swift */,
+				234D79CD305BB3C20066A54B /* SafeAreaLearn.swift */,
+				2305D939305F9FFE002D6920 /* ButtonLearn.swift */,
+				2305D93B305FABC8002D6920 /* StateLearn.swift */,
 				236B51FC3042FDBA008006C4 /* Assets.xcassets */,
 				236B51FE3042FDBA008006C4 /* Preview Content */,
 			);
@@ -156,12 +165,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				23A3DC14304540E40009D840 /* ImageLearn.swift in Sources */,
+				234D79CE305BB3C20066A54B /* SafeAreaLearn.swift in Sources */,
 				236B52073042FE99008006C4 /* TutorialSystemIcon.swift in Sources */,
 				234D79CC305BA7660066A54B /* GridLearn.swift in Sources */,
 				23A3DC16304544570009D840 /* FrameAndAlignmentLearn.swift in Sources */,
 				23A3DC1A304559A50009D840 /* StacksLearn.swift in Sources */,
 				236B51FB3042FDB8008006C4 /* ContentView.swift in Sources */,
+				2305D93C305FABC8002D6920 /* StateLearn.swift in Sources */,
 				23A3DC1830454A810009D840 /* BackgoundAndOverLay.swift in Sources */,
+				2305D93A305F9FFE002D6920 /* ButtonLearn.swift in Sources */,
 				236B51F93042FDB8008006C4 /* TutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
